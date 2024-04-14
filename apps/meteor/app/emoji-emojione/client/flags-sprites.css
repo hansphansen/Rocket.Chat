@@ -1,7 +1,7 @@
 /* stylelint-disable */
 
 .joypixels-flags {
-  background-image: url('/packages/emojione/flags-sprites.png');
+  background-image: url('/packages/joypixelse/flags-sprites.png');
 
   &._1f1f1-1f1f9 {
     background-repeat: no-repeat;
